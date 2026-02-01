@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Emmanuel 👋
 
-<!--
-**emmanuell-dev/emmanuell-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a passionate learner and developer who enjoys building practical projects and improving my skills every day. I’m especially interested in web development, technology, and creating useful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Working On
+- Improving my **HTML, CSS, and JavaScript** skills  
+- Building real-world projects and layouts  
+- Learning best practices for clean and reusable code  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Currently Learning:** Responsive design, modern layouts, and better UI structure  
+
+---
+
+## 🌱 Goals
+- Become a confident full-stack developer  
+- Contribute to open-source projects  
+- Build products that solve real problems  
+
+---
+
+## 📫 Let’s Connect
+- GitHub: https://github.com/emmanuell-dev  
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey!
